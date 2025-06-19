@@ -82,15 +82,5 @@ Pull requests are welcome! If you have ideas to improve rural job matching or UI
 
 > Add some UI screenshots here for extra ✨drip✨
 
-## 📜 License
 
-MIT License
-
----
-
-Built with ❤️ to support farmers and empower local labourers.
-
-```
-
----
 
