@@ -56,7 +56,7 @@ A web-based platform designed to connect **farmers** and **labourers** for agric
 
 1. Clone the repo:
 ```bash
-git clone https://github.com/yourusername/labour-farmer-system.git
+git clone https://github.com/manojjadhav2004/labour-farmer-system.git
 ````
 
 2. Paste the folder into your `htdocs/` directory (XAMPP).
