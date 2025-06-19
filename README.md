@@ -37,7 +37,7 @@ A web-based platform designed to connect **farmers** and **labourers** for agric
 | Database     | MySQL (via XAMPP/WAMP) |
 
 
-````
+
 
 ## ⚙️ Setup Instructions
 
