@@ -36,19 +36,6 @@ A web-based platform designed to connect **farmers** and **labourers** for agric
 | Backend      | PHP                  |
 | Database     | MySQL (via XAMPP/WAMP) |
 
-## 🏗️ Folder Structure
-
-```
-
-/labour-farmer-management/
-│
-├── /admin/              # Admin panel
-├── /farmer/             # Farmer dashboard & features
-├── /labour/             # Labour dashboard & features
-├── /assets/             # CSS, JS, images
-├── db\_config.php        # Database connection file
-├── index.php            # Home/Login page
-└── README.md            # You're here!
 
 ````
 
@@ -78,9 +65,6 @@ git clone https://github.com/manojjadhav2004/labour-farmer-system.git
 
 Pull requests are welcome! If you have ideas to improve rural job matching or UI upgrades, let’s collab.
 
-## 📷 Screenshots
-
-> Add some UI screenshots here for extra ✨drip✨
 
 
 
